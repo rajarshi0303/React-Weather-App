@@ -3,7 +3,7 @@
 Welcome to the React Weather App! This project provides real-time weather information with a user-friendly interface. You can check the weather for your current location or any specific location worldwide. The app also displays additional weather details such as air quality index, humidity, air pressure, visibility, and more.
 
 <p align="center">
-<img src="https://github.com/rajarshi0303/React-Weather-App/assets/128988468/cb46fb97-6a9d-4fd7-a71f-3fb1108789c9" width="750" height="500" hspace="5" />
+<img width="697" alt="weatherapp" src="https://github.com/rajarshi0303/React-Weather-App/assets/128988468/f72cd90b-b69a-438a-beb2-78f0553710b9">
 </p>
 
 ## ✨ Features
